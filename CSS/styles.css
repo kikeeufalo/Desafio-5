@@ -14,3 +14,11 @@ body {
     font-family: sans-serif;
     margin: 30px 0 10px 20px;
 }
+
+.imgEu {
+    width: 300px;
+    height: 260px;
+    border-radius: 50%;
+    border: 2px solid black;
+    box-shadow: 0 0 15px black;
+}
